@@ -1,0 +1,52 @@
+@charset "EUC-KR";
+
+header{
+	margin-bottom: 0;
+}
+
+html{
+	margin-top : 50px;
+}
+
+div.brand{
+	text-align : center;
+}
+
+.row{
+	background-color : white;
+	height: 40px;
+}
+
+a{
+	color:#d9d9d9;
+	text-decoration : none;
+	text-align: center;
+}
+
+.top-nav{
+	height:40px;
+	padding-top : 10px;
+	
+}
+
+
+.top-nav-list{
+	color:#d9d9d9;
+}
+
+
+.sale {
+	color:red;
+}
+
+.top-nav-list > .top-nav > p{
+	margin:0px;
+}
+
+.top-nav:hover{
+	background : #f2f2f2;
+}
+
+.top-nav:hover > p{
+		color : black;
+}
